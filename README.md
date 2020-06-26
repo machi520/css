@@ -17,3 +17,6 @@ CSSメディアタイプの種類
 使い方は以下のいずれか
 -- htmlファイルに<link media="メディアタイプの記載">
 -- CSSがいるに @media メディアタイプの記載{ property:hogehoge };
+
+## 中央寄せ
+- インラインを囲うブロック要素に、text-aline:center;
